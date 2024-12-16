@@ -1,0 +1,10 @@
+F:\DS\PrjCaca\PrjCaca\bin\Debug\PrjCaca.exe.config
+F:\DS\PrjCaca\PrjCaca\bin\Debug\PrjCaca.exe
+F:\DS\PrjCaca\PrjCaca\bin\Debug\PrjCaca.pdb
+F:\DS\PrjCaca\PrjCaca\obj\Debug\PrjCaca.Form1.resources
+F:\DS\PrjCaca\PrjCaca\obj\Debug\PrjCaca.Properties.Resources.resources
+F:\DS\PrjCaca\PrjCaca\obj\Debug\PrjCaca.csproj.GenerateResource.cache
+F:\DS\PrjCaca\PrjCaca\obj\Debug\PrjCaca.csproj.CoreCompileInputs.cache
+F:\DS\PrjCaca\PrjCaca\obj\Debug\PrjCaca.exe
+F:\DS\PrjCaca\PrjCaca\obj\Debug\PrjCaca.pdb
+F:\DS\PrjCaca\PrjCaca\obj\Debug\PrjCaca.csprojAssemblyReference.cache
